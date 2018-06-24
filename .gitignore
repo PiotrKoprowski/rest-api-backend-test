@@ -1,3 +1,13 @@
+target/
+
+.settings/
+*.project
+*.classpath
+.prefs
+*.prefs
+.metadata/
+.factorypath
+
 # Compiled class file
 *.class
 
